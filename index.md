@@ -36,7 +36,7 @@
 
 [Smart Glasses](https://ester-tsai.github.io/smart_glasses_website/)
 
-<img src="images/smart glasses.png?raw=true"/>
+<img src="images/components?raw=true"/>
 
 ---
 ## Automation
