@@ -31,6 +31,14 @@
 <img src="images/Streamlit Demo.gif?raw=true"/>
 
 ---
+## Embedded Systems and IOT
+---
+
+[Smart Glasses](https://ester-tsai.github.io/smart_glasses_website/)
+
+<img src="images/smart glasses.png?raw=true"/>
+
+---
 ## Automation
 ---
 
