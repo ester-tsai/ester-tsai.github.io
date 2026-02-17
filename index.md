@@ -15,16 +15,15 @@
 <img src="images/spiral reverse diffusion (colored).png?raw=true"/>
 
 ---
-## Machine Learning - Predictive Forecasting
+## Machine Learning
 ---
+### Predictive Forecasting
 
 [Amazon Risk Analysis and Forecast](/project_Amazon.md)
 
 <img src="images/forecasted vs actual.png?raw=true"/>
 
----
-## Machine Learning - Natural Language Processing
----
+### Natural Language Processing
 
 [Amazon Fake Review Classification](/project_FARS.md)
 
@@ -74,10 +73,4 @@
 
 <img src="images/Strategy Involving GDX buy and sell thresholds (crop margin) (2).png?raw=true"/>
 
----
-## Old Projects
----
 
-[DataHacks 2021: Bitcoin Ransomware Classification](/project_datahacks2021.md)
-
-<img src="images/Boxplot Length by Label.PNG?raw=true"/>
