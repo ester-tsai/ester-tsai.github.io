@@ -1,4 +1,7 @@
 # Data Science Project Portfolio
+
+## 🎮 [Play the Interactive Portfolio Game](/game.html)
+
 ---
 ## Deep Learning - Diffusion Models
 ---
@@ -72,5 +75,3 @@
 [Algorithmic Trading for Gold and Gold Miner ETFs](/project_algorithmic_trading.md)
 
 <img src="images/Strategy Involving GDX buy and sell thresholds (crop margin) (2).png?raw=true"/>
-
-
