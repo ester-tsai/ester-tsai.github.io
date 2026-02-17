@@ -1,7 +1,4 @@
 # Data Science Project Portfolio
-
-## 🎮 [Play the Interactive Portfolio Game](/game.html)
-
 ---
 ## Deep Learning - Diffusion Models
 ---
